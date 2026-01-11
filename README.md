@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lakshya Soni</h1>
+<h1 align="center">Hi ,I'm Lakshya Soni</h1>
 <h3 align="center">Computer Science Student | Java & DSA Learner |IoT & Robotics ethusisats</h3>
+<hr>
+<h2 align="center">UNIVERSITY OF LUCKNOW</h2>
+
 
 ---
 
