@@ -14,7 +14,7 @@
 
 ## 🛠️ Skills & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,mongodb,java,html,css,js,bootstrap,git,python" />
+  <img src="https://skillicons.dev/icons?i=spring,mongodb,java,postman,git,python" />
 </p>
 
 ---
