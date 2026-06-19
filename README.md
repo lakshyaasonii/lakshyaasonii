@@ -6,7 +6,7 @@
 
 ---
 
-🎓 B.Tech CSE (2nd Year, 3rd Semester)  
+🎓 B.Tech CSE (3rd Year, 5th Semester)  
 💻 Focused on Java & Data Structures and Algorithms  
 🚀 Building strong programming fundamentals  
 
